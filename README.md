@@ -57,6 +57,11 @@ I’m a **Software Developer** with a passion for building sleek, scalable web a
 </div>
 
 ---
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/AnmolSharma2002/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 ## 📫 Let’s Connect
 
