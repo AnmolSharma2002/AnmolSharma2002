@@ -57,9 +57,12 @@ I’m a **Software Developer** with a passion for building sleek, scalable web a
 </div>
 
 ---
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
-![snake gif](https://github.com/AnmolSharma2002/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnmolSharma2002&theme=tokyo-night" alt="GitHub Activity Graph" />
+</div>
+
 
 ---
 
