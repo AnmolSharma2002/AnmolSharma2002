@@ -78,9 +78,7 @@ I’m a **Software Developer** with a passion for building sleek, scalable web a
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://anmolsharma.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1F1F1F?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-  </a>
+  
 </div>
 
 ---
